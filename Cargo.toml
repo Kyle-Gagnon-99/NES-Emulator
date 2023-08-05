@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "nes_lib", 
+    "bin/6502assembler",
+    "bin/nes_emulator/src-tauri"
+]

@@ -1,0 +1,5 @@
+; 6502 Testing
+.ORG $8000
+
+LDA #$01
+STA $20
